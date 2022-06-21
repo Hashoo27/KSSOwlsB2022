@@ -1,3 +1,6 @@
+#THIS FILE MUST BE RUN SECOND!! AFTER "GetElevation.py"
+
+
 import csv
 from pathlib import Path
 from math import cos, asin, sqrt, pi
