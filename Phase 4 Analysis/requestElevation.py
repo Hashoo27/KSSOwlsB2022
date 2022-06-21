@@ -45,7 +45,7 @@ with open('datafile1.csv','r') as CSV1:
   		#print(data)
 print(latLongOne)
 print(latLongTwo)
-
+ 
 elevation = []
 for i in range(0, len(loopNumbers) - 3, 3):
 	print(i)
