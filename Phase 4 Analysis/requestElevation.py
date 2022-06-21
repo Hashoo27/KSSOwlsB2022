@@ -1,4 +1,4 @@
-#THIS FILE MUST BE RUN FIRST!!!!!!!!
+#THIS PROGRAM MUST BE RUN FIRST!!!!!!!!
 
 import requests
 import json
