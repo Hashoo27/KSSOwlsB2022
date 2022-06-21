@@ -1,3 +1,5 @@
+#THIS FILE MUST BE RUN FIRST!!!!!!!!
+
 import requests
 import json
 import csv
